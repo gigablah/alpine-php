@@ -1,0 +1,4 @@
+#!/bin/bash
+mkdir -p /tmp/nginx
+
+exec /usr/sbin/nginx
